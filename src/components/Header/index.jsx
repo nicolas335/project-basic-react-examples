@@ -35,7 +35,7 @@ export const Header = () => {
               Show / Hide Message 2
               </NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item as={Link} to="/">
+              <NavDropdown.Item as={Link} to="/myPractice/counter">
                 Counter
               </NavDropdown.Item>
               <NavDropdown.Divider />

@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+    padding: 10px 0;
+}
+.badge{
+    width: 50px;
+   padding: 10px;
+    margin: 10px 5px;
+}
+.decrement{
+    width: 35px;
+}
+.increment{
+    width: 35px;
+
+    margin-right: 5px;
+}
